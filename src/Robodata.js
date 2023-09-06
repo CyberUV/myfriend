@@ -10,9 +10,19 @@ export const Robodata = [
         user: 'Suyash',
     },
     {
+        id:'2',
+        name: 'Kunal Jain',
+        user: 'Jaadu',
+    },
+    {
         id:'3',
         name: 'Deepesh Rathor',
         user: 'Deepesh',
+    },
+    {
+        id:'2',
+        name: 'Kavish Singh',
+        user: 'Gujarati Bhai',
     },
     {
         id:'4',
