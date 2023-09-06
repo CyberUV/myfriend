@@ -25,7 +25,7 @@ const colorarry = [ '-light-yellow',
 
 
 const Card = ({user, name}) =>{
-    const urlid = user + String(Math.floor(Math.random()*10));
+    const urlid = user;
 
     return(
         <div className=" dib br3 pa1 ma3 shadow-2 grow bw2 tc" >
